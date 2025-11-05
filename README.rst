@@ -1,3 +1,11 @@
+Notes
+=====
+**This instance is hosted at searxng.kofee.fr, available only in France.**
+
+**In case of issue with this instance, please report in the issue tab.**
+
+_____
+
 .. SPDX-License-Identifier: AGPL-3.0-or-later
 
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
